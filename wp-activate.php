@@ -135,3 +135,7 @@ get_header( 'wp-activate' );
 	key_input && key_input.focus();
 </script>
 <?php get_footer( 'wp-activate' );
+
+
+
+test commit
